@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/nav_edit_item"
+        android:icon="@drawable/ic_baseline_add_circle_outline_24"
+        android:title="Add new item" />
+
+    <item
+        android:id="@+id/nav_recommend"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Recipe Recommendation" />
+
+    <item
+        android:id="@+id/nav_offer"
+        android:icon="@drawable/ic_baseline_connect_without_contact_24"
+        android:title="Connect" />
+
+    <item
+        android:id="@+id/nav_shopping"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        android:title="Your Shopping List" />
+
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="My Account" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="Logout" />
+
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="Map" />
+
+</menu>

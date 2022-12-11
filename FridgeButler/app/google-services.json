@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691358377126",
+    "project_id": "fridgebutler-69c0f",
+    "storage_bucket": "fridgebutler-69c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691358377126:android:74dc84b08074f1df4e0067",
+        "android_client_info": {
+          "package_name": "comp5216.sydney.edu.fridgebutler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691358377126-mqgrldadomninv7cknkehj8n7cgjd0qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDZoDL7xuBvaIVXAhdagBpNFNNVgUwyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691358377126-mqgrldadomninv7cknkehj8n7cgjd0qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
